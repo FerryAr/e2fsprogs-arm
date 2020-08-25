@@ -1,0 +1,6 @@
+id=e2fsprogs-arm
+name=e2fsprogs ARM
+version=v1.45.6
+versionCode=1
+author=FerryAr
+description=Static e2fsprogs for ARM Devices
